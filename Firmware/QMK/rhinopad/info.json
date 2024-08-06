@@ -14,7 +14,7 @@
     },
     "encoder": {
         "rotary": [
-            {"pin_a": "F5", "pin_b": "F4", "resolution": 2}
+            {"pin_a": "B5", "pin_b": "B4", "resolution": 2}
         ]
     },
     "diode_direction": "COL2ROW",
